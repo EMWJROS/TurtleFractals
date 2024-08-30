@@ -1,4 +1,5 @@
 # TurtleFractals
+![A turtle ready to draw factals](https://github.com/EMWJROS/TurtleFractals/blob/main/turtle.jpg)
 ## Background
 I'm not completely certain about the origins of this program. If I remember correctly, it was
 a friend and his father who introduced me to L-systems (https://en.wikipedia.org/wiki/L-system)
